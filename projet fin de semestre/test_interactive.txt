@@ -1,0 +1,12 @@
+1
+Hello
+français
+2
+1
+2
+1
+Goodbye
+english
+1
+2
+3
